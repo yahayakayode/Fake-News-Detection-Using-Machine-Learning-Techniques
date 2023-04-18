@@ -1,4 +1,4 @@
-# Fake News Detection Using Machine Learning Techniques
+## Fake News Detection Using Machine Learning Techniques
 
 ### Project Overview 
 > The emergence of the World Wide Web and the swift uptake of social media platforms like Facebook and Twitter have opened up avenues for the dissemination of information that were previously unprecedented in human history. T
@@ -11,5 +11,5 @@ Four Independent machine learning algorithms were used for news classification, 
 > - 4. Support Vector Machine
 > - 5. While ensemble Ranom Forest was used
 
-> Out of the four algorithms used, `Support Vector Machine` recorded the highest accuracy of `93%`, followed by `Logistic Regression` with `91`%, followed by `Naïve Bayes` with 84%, while `Decision Tree` recorded the least acuracy with `80%`.
-> The `Ensemble Learning` method recorded `93%` accuracy, which outperformed all the used algorithms except Support Vector Machine.
+> Out of the four algorithms used, Support Vector Machine recorded the highest accuracy of 93%, followed by Logistic Regression with 91%, followed by Naïve Bayes with 84%, while Decision Tree recorded the least acuracy with 80%`.
+> The Ensemble Learning method recorded 93% accuracy, which outperformed all the used algorithms except Support Vector Machine.
