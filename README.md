@@ -3,7 +3,7 @@
 ### Project Overview 
 The emergence of the World Wide Web and the swift uptake of social media platforms like Facebook and Twitter have opened up avenues for the dissemination of information that were previously unprecedented in human history. T
 he current widespread use of social media platforms has resulted in a surge of information creation and sharing by users, surpassing any levels seen before. However, a significant proportion of this information can be misleading and bears no connection to reality. 
-The wide spreading of fake news is a matter of serious concern due to its ability to cause a lot of social and national damage with destructive impacts. To overcome the impact of fake news, this research focus on leveraging the power of machine learning to classify news into `Fake` or `Real`. 
+The wide spreading of fake news is a matter of serious concern due to its ability to cause a lot of social and national damage with destructive impacts. To overcome the impact of fake news, this research focus on leveraging the power of machine learning to classify news into `Fake` or `Real`. <br>
 Four Independent machine learning algorithms were used for news classification, also, an ensemble method was used to strengthen the prediction accuracy. The four algorithms are:
 - 1. Logistic Regression 
 - 2. Decision Tree
